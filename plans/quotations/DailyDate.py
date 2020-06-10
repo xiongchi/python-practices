@@ -39,4 +39,5 @@ class DailyDate(object):
 
 
 if __name__ == '__main__':
-    DailyDate().historyData()
+    # DailyDate().historyData()
+    DailyDate().dailyPrice('20200610')
